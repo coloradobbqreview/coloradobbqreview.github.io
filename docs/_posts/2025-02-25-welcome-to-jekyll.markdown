@@ -1,29 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Colorado BBQ Review"
 date:   2025-02-25 10:25:17 -0700
-categories: jekyll update
+categories: 
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+BBQ is an art, a science, and—most importantly—a passion. While places like Texas, Kansas City, and the Carolinas get all the BBQ glory, I’ve always wondered: How does Colorado stack up?
 
-Jekyll requires blog post files to be named according to the following format:
+This blog is my journey to find out. I’ll be exploring the best (and maybe the worst) that Colorado BBQ has to offer, comparing it to the legendary smokehouses of the South and Midwest. From brisket to burnt ends, ribs to pulled pork, I’ll be diving deep into the flavors, techniques, and traditions that make great BBQ what it is.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+So whether you’re a die-hard pitmaster or just someone who loves a good plate of smoky, saucy goodness, stick around—because it’s time to see if Colorado’s BBQ game can compete with the best.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Let’s eat! 🍖🔥
