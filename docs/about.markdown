@@ -2,6 +2,8 @@
 layout: article
 title: About Colorado BBQ Review
 permalink: /about/
----
-# More to come!
+----
+
+
+#More to come!
 Just hang in there.
